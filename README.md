@@ -20,3 +20,13 @@ Key features of the nanoMoCo include:
 
 See http://dynamicperception.com/docs/nanomoco for more information
 
+License and Copyright
+---------------------
+
+nanoMoCo is Copyright (c) 2012-2013 Dynamic Perception LLC.
+
+All files shared under the Creative Commons Attibution-Share-Alike 3.0 License.
+
+The nanoMoCo name is a trademark of Dynamic Perception LLC.
+
+
